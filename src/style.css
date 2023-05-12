@@ -6,8 +6,21 @@ Date: 2023-05-18
 Github: https://github.com/Tomasman05/
 Licenc: GNU GPL */
 body{
-    background-color: mediumseagreen !important;
+    background-color:lightseagreen !important;
+}
+h1{
+    background-color: cadetblue;
 }
 footer{
     background-color: cadetblue;
+}
+h3{
+    background-color: rgba(95, 158, 160, 0.493);
+}
+span{
+    font-weight: lighter;
+    font-size: medium;
+}
+.text-end{
+    font-weight: bold;
 }
